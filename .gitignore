@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.safetensors
+*.bin
+chroma_db/
+rag_env/
+venv/
+.env
+.DS_Store

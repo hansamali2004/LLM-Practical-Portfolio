@@ -8,3 +8,4 @@ rag_env/
 venv/
 .env
 .DS_Store
+memory.db
